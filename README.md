@@ -5,7 +5,7 @@
 [Sign up](https://github.com/join) or use an existing account if you have one.
 
 ### Set up git
- * [Download git](https://git-scm.com/downloads) (command line <strong>strongly</strong> encouraged)
+ * [Download git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (command line <strong>strongly</strong> encouraged)
  * [Set your name](https://help.github.com/articles/setting-your-username-in-git/)
  * [Set your email address](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
 
