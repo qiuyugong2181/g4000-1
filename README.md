@@ -36,6 +36,7 @@ On this page describe your academic/professional interests or projects you are c
     github_username: <your-github-username>
     last_name: <your-last-name>
     first_name: <your-first-name>
+    permalink: /people/<your-uni>/
     ---
     
 After you've saved the file, add it to staging:
